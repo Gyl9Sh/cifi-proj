@@ -242,7 +242,7 @@ const sections = [
       {
         id: 'mission3',
         type: 'select',
-        label: 'Mission Analysis 3',
+        label: 'Research 58',
         maxLevel: 6,
         text: 'Speed: Lv1 x1.05, Lv3: x1.05, Lv5: x1.05',
         textClassName: 'font-normal',
